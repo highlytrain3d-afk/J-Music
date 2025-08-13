@@ -1,0 +1,4 @@
+discord.py==2.7.3
+yt-dlp
+fastapi
+uvicorn[standard]
